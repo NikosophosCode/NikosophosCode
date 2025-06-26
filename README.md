@@ -23,7 +23,7 @@
 
 ### 👽 **Hobbies**
 
-- 🎮 **Videogames** <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/playstation.svg" />  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/steam.svg" />  playstationportable
+- 🎮 **Videogames** <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/playstation.svg" />  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/steam.svg" />   <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/playstationportable.svg" />
 - 🧳 **Travel around the world**
 - 📺 **Movies & Series**
 - 📖 **Read y Write Fiction**
