@@ -4,11 +4,11 @@
 
 ## **🧑‍💻 About Me**
 
-<img height="28" width="28" src="https://avatars.githubusercontent.com/u/6154722?s=48&v=4" />   <img height="24" width="24" src="./assets/rockstargames.svg" style="background-color: #FCAF17; border-radius: 4px; padding: 4px;" />   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/linux.svg" />   <img height="28" width="28" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/amd.svg" />   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/nvidia.svg" />   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/githubcopilot.svg" />   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/firefoxbrowser.svg" />   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/react.svg" /> 
+<img height="32" width="32" src="./assets/icons8-ventanas-11.svg" />   <img height="32" width="32" src="./assets/icons8-android-os.svg" />  <img width="32" height="32" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>   <img height="30" width="30" src="./assets/icons8-rockstar-games.svg" />      <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/amd.svg" />   <img height="32" width="32" src="./assets/icons8-nvidia.svg" />   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/githubcopilot.svg" />   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/firefoxbrowser.svg" />   <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/react.svg" /> 
 
 - 📍 **Location:** <a href="https://www.google.com/maps/search/bogot%C3%A1/@4.6486259,-74.2478946,11z" target="_blank">Bogotá, Colombia</a> 🇨🇴
 - 📧 **Email:** [niconiampira@hotmail.com](mailto:niconiampira@hotmail.com)
-- 👨🏼‍🎓 **Studies:** Bootcamp de programación | Platzi student  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/platzi.svg" /> 
+- 👨🏼‍🎓 **Studies:** Bootcamp of programming | Platzi student  <img height="20" width="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/platzi.svg" /> 
 
 🔭 Actualmente estoy trabajando en mis proyectos personales, y a la par mejorando constantemente mis habilidades :D
 
@@ -16,7 +16,7 @@
 
 ### 🖥️ **Languages**
 
-<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/python/python.png" />  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/javascript/javascript.png" />  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/html/html.png" />  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/css/css.png" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/markdown.svg" />
+<img height="32" width="32" src="./assets/icons8-python-96.svg" />  <img height="32" width="32" src="./assets/icons8-javascript-96.svg" />  <img height="32" width="32" src="./assets/icons8-html-96.svg" />  <img height="32" width="32" src="./assets/icons8-css3-96.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/markdown.svg" />
 
 
 ---
