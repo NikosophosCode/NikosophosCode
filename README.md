@@ -40,7 +40,7 @@
 
 ### 🖥️ **Languages**
 
-<img height="32" width="32" src="./assets/icons8-python-96.svg" />  <img height="32" width="32" src="./assets/icons8-javascript-96.svg" />  <img height="32" width="32" src="./assets/icons8-html-96.svg" />  <img height="32" width="32" src="./assets/icons8-css3-96.svg" />  <img height="32" width="36" src="[./assets/Markdown-mark.svg](https://img.icons8.com/?size=100&id=uADJvOMNIZPu&format=png&color=000000)" />
+<img height="32" width="32" src="./assets/icons8-python-96.svg" />  <img height="32" width="32" src="./assets/icons8-javascript-96.svg" />  <img height="32" width="32" src="./assets/icons8-html-96.svg" />  <img height="32" width="32" src="./assets/icons8-css3-96.svg" />  <img height="32" width="36" src="https://img.icons8.com/?size=100&id=uADJvOMNIZPu&format=png&color=000000" />
 
 
 ---
