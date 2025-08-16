@@ -11,9 +11,9 @@
 	<!-- Android -->
 	<img src="https://img.icons8.com/?size=100&id=114425&format=png&color=000000" alt="Android" width="32" height="32" />
 	<!-- Linux (Tux) pesado -> uso imagen local para no duplicar código enorme -->
-	<img src="./assets/tux.svg" alt="Linux Tux" width="32" height="32" />
+	<img src="https://img.icons8.com/?size=100&id=tmEqIUErLJVM&format=png&color=000000" alt="Linux Tux" width="32" height="32" />
 	<!-- Ryzen (gradiente grande) también como imagen local -->
-	<img src="./assets/ryzen.svg" alt="Ryzen" width="48" height="32" />
+	<img src="https://img.icons8.com/?size=100&id=tu2Vq6i3mpRn&format=png&color=000000" alt="Ryzen" width="48" height="32" />
 	<!-- NVIDIA -->
 	<img src="https://img.icons8.com/?size=100&id=yqf95864UzeQ&format=png&color=000000" alt="NVIDIA" width="32" height="32" />
     <!-- VS Code -->
@@ -58,7 +58,7 @@
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 3st, 2025, 15:16:44 PM
+Last Updated: Sunday, August 17st, 2025, 15:16:44 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ### 📈 **Github Stats**
