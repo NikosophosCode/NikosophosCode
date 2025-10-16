@@ -69,7 +69,7 @@ Last Updated: Sunday, August 17st, 2025, 15:16:44 PM
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats-2-theta.vercel.app/api/top-langs/?username=NikosophosCode&hide_border=true&layout=pie&theme=dark" align="left" style="width: 97%" />
+<img src="https://github-readme-stats-2-theta.vercel.app/api/top-langs/?username=NikosophosCode&hide_border=true&theme=dark" align="left" style="width: 97%" />
 
 </td></tr></table>  
 
