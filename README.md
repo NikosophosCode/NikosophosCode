@@ -65,11 +65,11 @@ Last Updated: Sunday, August 17st, 2025, 15:16:44 PM
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats-c1m3-git-master-nikosophoscodes-projects.vercel.app&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 97%" />
+<img src="https://github-readme-stats.vercel.app/api?username=NikosophosCode&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 97%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats-c1m3-git-master-nikosophoscodes-projects.vercel.app/api/top-langs/?username=NikosophosCode&hide_border=true&layout=compact" align="left" style="width: 97%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikosophosCode&hide_border=true&layout=compact" align="left" style="width: 97%" />
 
 </td></tr></table>  
 
