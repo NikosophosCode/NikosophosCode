@@ -26,8 +26,6 @@
 	<img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" alt="Chrome" width="32" height="32" />
 	<!-- Opera -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Opera_2015_icon.svg" alt="Opera" width="32" height="32" />
-	<!-- React (imagen externa por ahora) -->
-	<img width="32" height="32" alt="React" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" />
 </p>
 
 - 📍 **Location:** <a href="https://www.google.com/maps/search/bogot%C3%A1/@4.6486259,-74.2478946,11z" target="_blank">Bogotá, Colombia</a> 🇨🇴
@@ -40,7 +38,7 @@
 
 ### 🖥️ **Languages & Tools**
 
-<img height="32" width="32" src="./assets/icons8-python-96.svg" />  <img height="32" width="32" src="./assets/icons8-javascript-96.svg" />  <img height="32" width="32" src="./assets/icons8-html-96.svg" />  <img height="32" width="32" src="./assets/icons8-css3-96.svg" />  <img height="32" width="36" src="https://img.icons8.com/?size=100&id=uADJvOMNIZPu&format=png&color=000000" /> <img height="32" width="36" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" />
+<img height="32" width="32" src="./assets/icons8-python-96.svg" />  <img height="32" width="32" src="./assets/icons8-javascript-96.svg" />  <img height="32" width="32" src="./assets/icons8-html-96.svg" />  <img height="32" width="32" src="./assets/icons8-css3-96.svg" />  <img height="32" width="36" src="https://img.icons8.com/?size=100&id=uADJvOMNIZPu&format=png&color=000000" /> <img height="32" width="36" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" /> <img height="32" width="36" src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" /> <img height="32" width="36" src="https://img.icons8.com/?size=100&id=sOWbK4N3cxGh&format=png&color=000000" /> <img height="32" width="36" src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" /> <img width="32" height="32" alt="React" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png" />  <img height="32" width="36" src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" />  <img height="32" width="36" src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000" />  <img height="32" width="36" src="https://img.icons8.com/?size=100&id=8gfeOoqrHqJU&format=png&color=000000" />
 
 
 
