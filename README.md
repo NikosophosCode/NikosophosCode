@@ -7,9 +7,7 @@
 <!-- NOTA: GitHub sanitiza <symbol>/<use> en README de perfil, por lo que se reemplaza el sprite por SVGs/IMGs directos para asegurar renderizado. -->
 <p>
 	<!-- Windows -->
-	<img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" alt="Windows" width="32" height="32" />
-	<!-- Android -->
-	<img src="https://img.icons8.com/?size=100&id=114425&format=png&color=000000" alt="Android" width="32" height="32" />
+	<img src="https://img.icons8.com/?size=100&id=108792&format=png&color=000000" alt="Windows" width="32" height="32" /> <!-- Android --> <img src="https://img.icons8.com/?size=100&id=114425&format=png&color=000000" alt="Android" width="32" height="32" />
 	<!-- Linux (Tux) pesado -> uso imagen local para no duplicar código enorme -->
 	<img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Linux Tux" width="32" height="32" />
 	<!-- Ryzen (gradiente grande) también como imagen local -->
