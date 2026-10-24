@@ -8,7 +8,7 @@
 
 - 📍 **Location:** <a href="https://www.google.com/maps/search/bogot%C3%A1/@4.6486259,-74.2478946,11z" target="_blank">Bogotá, Colombia</a> 🇨🇴
 - 📧 **Email:** [niconiampira@hotmail.com](mailto:niconiampira@hotmail.com)
-- 👨🏼‍🎓 **Studies:** Bootcamp of programming | Platzi student  <img height="20" width="60" src="./assets/Platzi_large.svg" /> 
+- 👨🏼‍🎓 **Studies:** Bootcamp of programming | Platzi student  <img height="20" width="60" src="./assets/Platzi_large.svg" /> | Computer Systems Programming Technologist
 
 🔭 I’m currently working on my personal projects while continuously improving my skills. 😄
 
