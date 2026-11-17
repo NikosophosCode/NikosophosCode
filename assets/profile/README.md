@@ -8,7 +8,7 @@ and links in Markdown, not only inside images.
 | Asset | Origin | Notes |
 | --- | --- | --- |
 | `hero-dark.svg`, `hero-light.svg` | Original artwork for this profile | Static, self-contained SVGs; no scripts, animation, external fonts or tracking. |
-| `kevgo.webp` | `AIEmailKevgoAutomation/docs/screenshots/public-home-desktop-en.png` | Cropped/resized development UI from an isolated test harness. No live mailbox, credentials or customer data. Not evidence of production acceptance. |
+| `kevgo-1.webp` | `AIEmailKevgoAutomation/docs/screenshots/public-home-desktop-en.png` | Cropped/resized development UI from an isolated test harness. No live mailbox, credentials or customer data. Not evidence of production acceptance. |
 | `torre-de-sofia.webp` | Existing portfolio screenshot: `NikosophosPage/public/assets/img/projects/torredesofia/image-1.webp` | Public-facing website preview. |
 | `yeouth-face-oil.webp` | Screenshot of <https://faceoil.yeouth.com/> | Public landing page, captured without signing in or submitting forms. Product imagery and branding belong to their respective owners. |
 

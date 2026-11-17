@@ -28,7 +28,7 @@ An AI-assisted Gmail workspace that brings together inbox synchronization, struc
 
 `Next.js` `React` `TypeScript` `Node.js` `Supabase` `PostgreSQL` `Vercel AI SDK`
 
-<img src="./assets/profile/kevgo.webp" alt="KEVGO product interface explaining the email copilot, inbox review and user-controlled actions." width="1120" height="630" loading="lazy">
+<img src="./assets/profile/kevgo-1.webp" alt="KEVGO product interface explaining the email copilot, inbox review and user-controlled actions." width="1120" height="630" loading="lazy">
 
 <sub>Development preview from an isolated test harness, not a live Gmail session. Gmail write actions default to simulation; remote acceptance is still pending. Source is not public.</sub>
 
