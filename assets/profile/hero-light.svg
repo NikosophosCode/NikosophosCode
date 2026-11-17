@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-labelledby="title description">
+  <title id="title">NikosophosCode</title>
+  <desc id="description">Thoughtful interfaces. Connected systems. A visual path from user interface to API and data.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F3F8FB"/>
+      <stop offset="1" stop-color="#EAF2F7"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="56" y1="0" x2="1144" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#087F70"/>
+      <stop offset=".6" stop-color="#2266AE"/>
+      <stop offset="1" stop-color="#9A6A21"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#A8BECD" stroke-opacity=".35"/>
+    </pattern>
+  </defs>
+  <rect x="1" y="1" width="1198" height="318" rx="22" fill="url(#background)" stroke="#C7D7E3"/>
+  <rect x="648" y="16" width="536" height="288" rx="14" fill="url(#grid)"/>
+  <path d="M56 1H1144" stroke="url(#accent)" stroke-width="2"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <text x="56" y="58" fill="#47647A" font-size="13" font-weight="600" letter-spacing="2.5">NIKOSOPHOSCODE / ENGINEERING &amp; INTERFACES</text>
+    <text x="52" y="133" fill="#142D41" font-size="53" font-weight="700" letter-spacing="-1.8">Thoughtful interfaces.</text>
+    <text x="52" y="195" fill="#087F70" font-size="53" font-weight="700" letter-spacing="-1.8">Connected systems.</text>
+    <text x="56" y="249" fill="#47647A" font-size="19">Full-stack development. Frontend with intention.</text>
+    <path d="M56 275H92" stroke="#9A6A21" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="105" cy="275" r="3" fill="#087F70"/>
+    <g stroke="#819FAF" stroke-width="1.5">
+      <path d="M854 123H940Q960 123 960 143V174"/>
+      <path d="M960 224V252Q960 267 945 267H826Q806 267 806 247V216"/>
+    </g>
+    <circle cx="900" cy="123" r="4" fill="#087F70"/>
+    <circle cx="866" cy="267" r="4" fill="#9A6A21"/>
+    <rect x="712" y="65" width="180" height="116" rx="13" fill="#FFFFFF" stroke="#8FAEBF"/>
+    <path d="M712 94H892" stroke="#BCD0DD"/>
+    <circle cx="727" cy="80" r="3" fill="#087F70"/>
+    <circle cx="738" cy="80" r="3" fill="#9A6A21"/>
+    <circle cx="749" cy="80" r="3" fill="#2266AE"/>
+    <rect x="730" y="109" width="42" height="52" rx="5" fill="#DCEEEB"/>
+    <path d="M785 116H870M785 131H852M785 146H861" stroke="#688699" stroke-width="5" stroke-linecap="round"/>
+    <rect x="933" y="164" width="202" height="65" rx="12" fill="#E5F3EF" stroke="#71A89A"/>
+    <text x="953" y="204" fill="#087F70" font-size="19" font-family="ui-monospace, monospace">{ }</text>
+    <text x="1004" y="204" fill="#20594F" font-size="17" font-weight="600">API / logic</text>
+    <rect x="730" y="199" width="154" height="45" rx="10" fill="#F8EFDF" stroke="#C4A56D"/>
+    <g stroke="#94631C" stroke-width="1.4">
+      <ellipse cx="753" cy="214" rx="8" ry="3"/>
+      <path d="M745 214V227C745 231 761 231 761 227V214M745 221C745 225 761 225 761 221"/>
+    </g>
+    <text x="775" y="227" fill="#765019" font-size="16" font-weight="600">Data</text>
+    <text x="1025" y="76" fill="#47647A" font-size="12" letter-spacing="2">END TO END</text>
+    <path d="M1105 91H1134V120" stroke="#819FAF"/>
+  </g>
+</svg>
